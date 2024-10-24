@@ -60,12 +60,13 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
-
+import header from './header.jpeg'
 export const assets = {
     logo,
     fleetfeast,
     food_28,
     food_8,
+    header,
     basket_icon,
     header_img,
     search_icon,
