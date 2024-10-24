@@ -38,7 +38,7 @@ const Navbar = () => {
   return (
     <div>
       <div className='navbar'>
-          <img className='logo' src={assets.fleetfeast} alt="" />
+          <img className='logo' src={assets.fleetfeastadmin} alt="" />
           <img className='profile' src={assets.profile_image} alt="" />
       </div>
 

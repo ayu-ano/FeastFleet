@@ -5,10 +5,12 @@ import profile_image from './profile_image.png'
 import upload_area from './upload_area.png'
 import parcel_icon from './parcel_icon.png'
 import fleetfeast from './fleetfeast.png'
+import fleetfeastadmin from './fleetfeastadmin.png'
 
 export const assets ={
     logo,
     fleetfeast,
+    fleetfeastadmin,
     add_icon,
     order_icon,
     profile_image,
