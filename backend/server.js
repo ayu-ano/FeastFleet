@@ -37,3 +37,5 @@ app.listen(port,()=>{
 })
 
 // YOU CAN SAVE UR DATABASE IN THIS COMMENT IF U WANT --> 
+
+// mongodb+srv://ayuano:<db_password>@cluster0.t2hg9.mongodb.net/?

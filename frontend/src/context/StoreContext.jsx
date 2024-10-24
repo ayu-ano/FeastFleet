@@ -62,6 +62,7 @@ const StoreContextProvider = (props) => {
             }
         }
         loadData();
+        
     },[])
 
 
