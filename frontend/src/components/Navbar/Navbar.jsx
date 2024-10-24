@@ -20,6 +20,7 @@ const Navbar = ({setShowLogin}) => {
     navigate("/")
   }
 
+
   useEffect(() => {
     const toggle = document.getElementById('visual-toggle');
 
@@ -93,3 +94,5 @@ const Navbar = ({setShowLogin}) => {
 }
 
 export default Navbar
+
+
