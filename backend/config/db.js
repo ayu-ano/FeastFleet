@@ -1,8 +1,9 @@
 import mongoose from "mongoose";
+import 'dotenv/config'; // Ensure that the .env file is loaded
 
 export const connectDB = async () => {
   try {
-    await mongoose.connect('mongodb+srv://ayuano:anshu@cluster0.t2hg9.mongodb.net/feastfleet?retryWrites=true&w=majority&appName=Cluster0', {
+    await mongoose.connect(process.env.MONGODB_URI, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
