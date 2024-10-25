@@ -79,7 +79,7 @@ Administrators have full control to:
    git clone https://github.com/ayu-ano/fleetfeast.git
    ```
 
-2. **Navigate to the project folder**:
+2. **Navigate to the project folder**:<br>
  *Frontend*
    ```bash
    cd frontend
