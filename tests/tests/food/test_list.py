@@ -17,7 +17,6 @@ def add_food(name, description, price, category, image_file):
         }, files=files)
     return response
 
-
 def list_food():
     """Helper function to retrieve food list."""
     response = requests.get(BASE_URL)

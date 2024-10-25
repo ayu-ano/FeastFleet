@@ -141,6 +141,7 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
  ##  Testing
 
 - Unit tests can be added using **Jest** or **Mocha**.
+- We also have folder name `tests` in which we perform testing for backend part.
 - Lint the code using **ESLint**:
 
 ```bash
