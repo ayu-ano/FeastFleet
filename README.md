@@ -1,4 +1,4 @@
-# 🍽️ Food Ordering System
+# 🍽️ FeastFleet
 
 Welcome to the **Food Ordering System**, a full-stack web application designed to facilitate online food ordering with seamless management for both customers and administrators. This project integrates an intuitive UI for customers, a powerful backend for order management, and an admin panel for managing food items and processing orders. 
 
@@ -76,7 +76,7 @@ Administrators have full control to:
 ### Steps:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ayu-ano/fleetfeast.git
+     https://github.com/ayu-ano/FleetFeast.git
    ```
 
 2. **Navigate to the project folder**:<br>
