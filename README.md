@@ -82,6 +82,7 @@ Administrators have full control to:
    ```
 
 2. **Navigate to the project folder**:
+<<<<<<< HEAD
  *Frontend*
    ```bash
    cd frontend
@@ -195,3 +196,13 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
 For more detailed information, please refer to the [User Guide](./soft-doc/Software_Engineering_Project_Report.pdf).
 
 
+=======
+   ```bash
+   cd frontend
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   
+   ```
+>>>>>>> 188637bc41e19b33d1d825452997c95572906159
