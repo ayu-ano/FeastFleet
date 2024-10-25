@@ -10,10 +10,8 @@ Welcome to the **Food Ordering System**, a full-stack web application designed t
 5. [Usage](#-usage)
 6. [API Endpoints](#-api-endpoints)
 7. [Screenshots](#-screenshots)
-8. [Folder Structure](#-folder-structure)
-9. [Contributing](#-contributing)
-10. [License](#-license)
-11. [Contact](#-contact)
+8. [Contributing](#-contributing)
+9. [Contact](#-contact)
 
 ## 🌟 Overview
 
@@ -128,7 +126,7 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
  nodemon server.js
 ```
 
-6.  ##  🚀Usage
+  ##  🚀Usage
 
 ### Running the Project
 
@@ -140,7 +138,7 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
 - **Build frontend**: `npm run build` in the `frontend` directory.
 - **Serve**: `npm start`
 
-7. ##  Testing
+ ##  Testing
 
 - Unit tests can be added using **Jest** or **Mocha**.
 - Lint the code using **ESLint**:
@@ -150,7 +148,7 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
 ```
 
 
-8. ## 📡 API Endpoints
+ ## 📡 API Endpoints
 
 ### User Routes:
 - **POST** `/api/user/register` - Register a new user.
@@ -170,7 +168,7 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
 
 
 
-9. ## 📸 Screenshots
+ ## 📸 Screenshots
 
 -  **Home Page**
    ![Home Page](./soft-doc/img_1.jpg)
@@ -181,16 +179,20 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
 ![Use case Diagram](./soft-doc/model.jpg)
 
 - **Admin Panel**
-   ![Admin Panel](./soft-doc/admin_panel.png)
+   ![Admin Panel](./soft-doc/admin_add.jpg)
+   ![Admin Panel](./soft-doc/admin_list.jpg)
+   ![Admin Panel](./soft-doc/admin_order_placed.jpg)
 
 - **Order Tracking**
-   ![Order Tracking](./soft-doc/order_tracking.png)
+   ![Order Tracking](./soft-doc/myorders.jpg)
 
 -  **Payment Page**
-   ![Payment Page](./soft-doc/payment_page.png)
+![Payment Page](./soft-doc/cart0.jpg)
+![Payment Page](./soft-doc/carttotals.jpg)
+   ![Payment Page](./soft-doc/payment.jpg)
 
 
-10. ## 📄 Documentation
+ ## 📄 Documentation
 
 For more detailed information, please refer to the [User Guide](https://drive.google.com/file/d/19CM_4ZhQy2Nv-2Pj9qkeQIcy8zVeqtWA/view?usp=sharing).
 
@@ -206,4 +208,5 @@ For more detailed information, please refer to the [User Guide](https://drive.go
 
 
 ## 📞 Contact
-Author: `Ayush Kumar`
+- Author: `Ayush Kumar`
+- For any inquiries or feedback, please reach out via GitHub: [Ayush Kumar](https://github.com/your-username)
