@@ -82,7 +82,6 @@ Administrators have full control to:
    ```
 
 2. **Navigate to the project folder**:
-<<<<<<< HEAD
  *Frontend*
    ```bash
    cd frontend
@@ -193,16 +192,18 @@ STRIPE_SECRET_KEY=<your-stripe-secret-key>
 
 10. ## 📄 Documentation
 
-For more detailed information, please refer to the [User Guide](./soft-doc/Software_Engineering_Project_Report.pdf).
+For more detailed information, please refer to the [User Guide](https://drive.google.com/file/d/19CM_4ZhQy2Nv-2Pj9qkeQIcy8zVeqtWA/view?usp=sharing).
 
 
-=======
-   ```bash
-   cd frontend
-   ```
 
-3. **Install dependencies**:
-   ```bash
-   
-   ```
->>>>>>> 188637bc41e19b33d1d825452997c95572906159
+11. ## 🤝 Contributing:
+- Fork the repository.
+- Create a new branch for your feature: `git checkout -b feature-name`.
+- Commit your changes: `git commit -m 'Add some feature'`.
+- Push to the branch: `git push origin feature-name`.
+- Create a `pull` request.
+
+
+
+## 📞 Contact
+Author: `Ayush Kumar`
